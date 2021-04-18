@@ -3,7 +3,7 @@ package chapter2;
 import java.util.Scanner;
 
 public class RandomTextGenerator {
-    public static void main(String arg[]) {
+    public static void :qmain(String arg[]) {
         //a season of the year
         System.out.println("Write a season of the year: ");
         Scanner scanner = new Scanner(System.in);
